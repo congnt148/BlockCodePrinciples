@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DOCUMENT Type="Advanced Installer" CreateVersion="14.3" version="14.3" Modules="simple" RootPath="." Language="vi" Id="{E86B7424-1D91-4142-9611-A6D27B1C698B}">
+  <COMPONENT cid="caphyon.advinst.msicomp.ProjectOptionsComponent">
+    <ROW Name="HiddenItems" Value="AppXProductDetailsComponent;AppXDependenciesComponent;AppXAppDetailsComponent;AppXVisualAssetsComponent;AppXCapabilitiesComponent;AppXAppDeclarationsComponent;AppXUriRulesComponent;MsiThemeComponent;BackgroundImagesComponent;UpdaterComponent;SerValComponent;DigCertStoreComponent;MsiInstExSeqComponent;DictionaryComponent;MsiAppSearchComponent;MsiAssemblyComponent;MsiClassComponent;MsiOdbcDataSrcComponent;MsiServInstComponent;MsiOrgComponent;MsiExtComponent;CPLAppletComponent;ActSyncAppComponent;PreReqComponent;WebApplicationsComponent;TilesComponent;MsiJavaComponent;MsiDriverPackagesComponent;UserAccountsComponent;ScheduledTasksComponent;SqlConnectionComponent;AutorunComponent;FirewallExceptionComponent;GameUxComponent;MsiDirectEditorComponent;SharePointSlnComponent;SilverlightSlnComponent;MultipleInstancesComponent;SccmComponent;ActSyncAppComponent"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiPropsComponent">
+    <ROW Property="AI_BITMAP_DISPLAY_MODE" Value="0"/>
+    <ROW Property="AI_PREDEF_LCONDS_PROPS" Value="AI_DETECTED_DOTNET_VERSION"/>
+    <ROW Property="AI_REQUIRED_DOTNET_DISPLAY" MultiBuildValue="DefaultBuild:3.5" ValueLocId="-"/>
+    <ROW Property="AI_REQUIRED_DOTNET_VERSION" MultiBuildValue="DefaultBuild:3.5" ValueLocId="-"/>
+    <ROW Property="ALLUSERS" Value="1"/>
+    <ROW Property="ARPCOMMENTS" Value="This installer database contains the logic and data required to install [|ProductName]." ValueLocId="*"/>
+    <ROW Property="CTRLS" Value="2"/>
+    <ROW Property="Manufacturer" Value="Congnt148"/>
+    <ROW Property="ProductCode" Value="1066:{B6F3EABF-46D4-4B0D-95AC-6718FF93FBC3} " Type="16"/>
+    <ROW Property="ProductLanguage" Value="1033"/>
+    <ROW Property="ProductName" Value="BlockCodePrinciples"/>
+    <ROW Property="ProductVersion" Value="1.0.0" Type="32"/>
+    <ROW Property="RUNAPPLICATION" Value="1" Type="4"/>
+    <ROW Property="SecureCustomProperties" Value="OLDPRODUCTS;AI_NEWERPRODUCTFOUND"/>
+    <ROW Property="UpgradeCode" Value="{2DBC6291-D890-4A20-8910-9226454A5B6D}"/>
+    <ROW Property="WindowsType9X" MultiBuildValue="DefaultBuild:Windows 9x/ME" ValueLocId="-"/>
+    <ROW Property="WindowsType9XDisplay" MultiBuildValue="DefaultBuild:Windows 9x/ME" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT40" MultiBuildValue="DefaultBuild:Windows NT 4.0" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT40Display" MultiBuildValue="DefaultBuild:Windows NT 4.0" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT50" MultiBuildValue="DefaultBuild:Windows 2000" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT50Display" MultiBuildValue="DefaultBuild:Windows 2000" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT5X" MultiBuildValue="DefaultBuild:Windows XP/2003 RTM, Windows XP/2003 SP1, Windows XP SP2 x86" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT5XDisplay" MultiBuildValue="DefaultBuild:Windows XP/2003 RTM, Windows XP/2003 SP1, Windows XP SP2 x86" ValueLocId="-"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiDirsComponent">
+    <ROW Directory="APPDIR" Directory_Parent="TARGETDIR" DefaultDir="APPDIR:." IsPseudoRoot="1"/>
+    <ROW Directory="DesktopFolder" Directory_Parent="TARGETDIR" DefaultDir="DESKTO~1|DesktopFolder" IsPseudoRoot="1"/>
+    <ROW Directory="SHORTCUTDIR" Directory_Parent="TARGETDIR" DefaultDir="SHORTC~1|SHORTCUTDIR" IsPseudoRoot="1"/>
+    <ROW Directory="TARGETDIR" DefaultDir="SourceDir"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCompsComponent">
+    <ROW Component="BlockCodePrinciples.exe" ComponentId="{1145D690-B277-4428-90F3-150D557E15B0}" Directory_="APPDIR" Attributes="0" KeyPath="BlockCodePrinciples.exe"/>
+    <ROW Component="BlockCodePrinciples.vshost.exe" ComponentId="{ED924541-32B6-4CA5-A236-90B04C62A493}" Directory_="APPDIR" Attributes="0" KeyPath="BlockCodePrinciples.vshost.exe"/>
+    <ROW Component="BlockCodePrinciples.vshost.exe.manifest" ComponentId="{3CE2FC4F-F7BA-4219-87B1-B368556FBA52}" Directory_="APPDIR" Attributes="0" KeyPath="BlockCodePrinciples.vshost.exe.manifest" Type="0"/>
+    <ROW Component="DevExpress.BonusSkins.v16.1.dll" ComponentId="{E107A8E7-4AB9-449B-BC75-9CD3D4FC64FC}" Directory_="APPDIR" Attributes="0" KeyPath="DevExpress.BonusSkins.v16.1.dll"/>
+    <ROW Component="DevExpress.Data.v16.1.dll" ComponentId="{80443D18-5ECF-4CB5-B80C-D0EBD8128CFC}" Directory_="APPDIR" Attributes="0" KeyPath="DevExpress.Data.v16.1.dll"/>
+    <ROW Component="DevExpress.Pdf.v16.1.Core.dll" ComponentId="{AB6DEF3A-5F0A-4500-ADB4-1923412AD17E}" Directory_="APPDIR" Attributes="0" KeyPath="DevExpress.Pdf.v16.1.Core.dll"/>
+    <ROW Component="DevExpress.Printing.v16.1.Core.dll" ComponentId="{76297A72-4418-46C3-B196-4122BD2D7F5E}" Directory_="APPDIR" Attributes="0" KeyPath="DevExpress.Printing.v16.1.Core.dll"/>
+    <ROW Component="DevExpress.Sparkline.v16.1.Core.dll" ComponentId="{5A81BDCF-F664-4845-A842-CF67F3F87B97}" Directory_="APPDIR" Attributes="0" KeyPath="DevExpress.Sparkline.v16.1.Core.dll"/>
+    <ROW Component="DevExpress.Utils.v16.1.dll" ComponentId="{3059309E-F360-4FBE-B491-DFDB198857B7}" Directory_="APPDIR" Attributes="0" KeyPath="DevExpress.Utils.v16.1.dll"/>
+    <ROW Component="DevExpress.XtraBars.v16.1.dll" ComponentId="{534235C8-362C-45BA-B21E-BB6CE319F200}" Directory_="APPDIR" Attributes="0" KeyPath="DevExpress.XtraBars.v16.1.dll"/>
+    <ROW Component="DevExpress.XtraEditors.v16.1.dll" ComponentId="{C84CAB07-5035-4182-AE5A-8B3A11A297D2}" Directory_="APPDIR" Attributes="0" KeyPath="DevExpress.XtraEditors.v16.1.dll"/>
+    <ROW Component="Microsoft.CSharp.dll" ComponentId="{69B12C19-D377-4EEA-832E-816DD87DBD8E}" Directory_="APPDIR" Attributes="0" KeyPath="Microsoft.CSharp.dll"/>
+    <ROW Component="ProductInformation" ComponentId="{0FE53865-6564-4446-90B6-9B5716F16152}" Directory_="APPDIR" Attributes="4" KeyPath="Version"/>
+    <ROW Component="SHORTCUTDIR" ComponentId="{E8F9AA6E-5E84-4003-B2DD-28B7413451A5}" Directory_="SHORTCUTDIR" Attributes="0"/>
+    <ROW Component="System.Core.dll" ComponentId="{6EDFC21C-0567-4E52-9166-5986B73C50EE}" Directory_="APPDIR" Attributes="0" KeyPath="System.Core.dll"/>
+    <ROW Component="System.Data.DataSetExtensions.dll" ComponentId="{370B86A9-3CD2-4AF0-B54C-C02BFEAE64BF}" Directory_="APPDIR" Attributes="0" KeyPath="System.Data.DataSetExtensions.dll"/>
+    <ROW Component="System.Data.dll" ComponentId="{2E5BCF07-CA4A-487D-A0D8-A6EFACABB034}" Directory_="APPDIR" Attributes="0" KeyPath="System.Data.dll"/>
+    <ROW Component="System.Deployment.dll" ComponentId="{73C53EC5-BA8E-49D8-89FA-3E58C2441B13}" Directory_="APPDIR" Attributes="0" KeyPath="System.Deployment.dll"/>
+    <ROW Component="System.Drawing.dll" ComponentId="{658F68EE-B3E4-4A26-AEC1-D352CC80C5DC}" Directory_="APPDIR" Attributes="0" KeyPath="System.Drawing.dll"/>
+    <ROW Component="System.Windows.Forms.dll" ComponentId="{550A112C-8237-4E74-A032-262A9583FA1A}" Directory_="APPDIR" Attributes="0" KeyPath="System.Windows.Forms.dll"/>
+    <ROW Component="System.Xml.Linq.dll" ComponentId="{E36564C6-0DDD-4BD4-852B-C79C2C1992D7}" Directory_="APPDIR" Attributes="0" KeyPath="System.Xml.Linq.dll"/>
+    <ROW Component="System.Xml.dll" ComponentId="{07582C2D-D41F-4733-B390-32682195066E}" Directory_="APPDIR" Attributes="0" KeyPath="System.Xml.dll"/>
+    <ROW Component="System.dll" ComponentId="{882F5BC4-105B-4060-8277-460409B2F874}" Directory_="APPDIR" Attributes="0" KeyPath="System.dll"/>
+    <ROW Component="mscorlib.dll" ComponentId="{869C4F8F-488F-4886-A70B-56193C056994}" Directory_="APPDIR" Attributes="0" KeyPath="mscorlib.dll"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFeatsComponent">
+    <ROW Feature="MainFeature" Title="MainFeature" Description="Description" Display="1" Level="1" Directory_="APPDIR" Attributes="0" Components="BlockCodePrinciples.exe BlockCodePrinciples.vshost.exe BlockCodePrinciples.vshost.exe.manifest DevExpress.BonusSkins.v16.1.dll DevExpress.Data.v16.1.dll DevExpress.Pdf.v16.1.Core.dll DevExpress.Printing.v16.1.Core.dll DevExpress.Sparkline.v16.1.Core.dll DevExpress.Utils.v16.1.dll DevExpress.XtraBars.v16.1.dll DevExpress.XtraEditors.v16.1.dll Microsoft.CSharp.dll ProductInformation SHORTCUTDIR System.Core.dll System.Data.DataSetExtensions.dll System.Data.dll System.Deployment.dll System.Drawing.dll System.Windows.Forms.dll System.Xml.Linq.dll System.Xml.dll System.dll mscorlib.dll"/>
+    <ATTRIBUTE name="CurrentFeature" value="MainFeature"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFilesComponent">
+    <ROW File="BlockCodePrinciples.exe" Component_="BlockCodePrinciples.exe" FileName="BLOCKC~1.EXE|BlockCodePrinciples.exe" Attributes="0" SourcePath="..\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\BlockCodePrinciples.exe" SelfReg="false" NextFile="DevExpress.Sparkline.v16.1.Core.dll" DigSign="true"/>
+    <ROW File="BlockCodePrinciples.pdb" Component_="BlockCodePrinciples.exe" FileName="BLOCKC~1.PDB|BlockCodePrinciples.pdb" Attributes="0" SourcePath="..\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\BlockCodePrinciples.pdb" SelfReg="false" NextFile="BlockCodePrinciples.vshost.exe"/>
+    <ROW File="BlockCodePrinciples.vshost.exe" Component_="BlockCodePrinciples.vshost.exe" FileName="BLOCKC~2.EXE|BlockCodePrinciples.vshost.exe" Attributes="0" SourcePath="..\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\BlockCodePrinciples.vshost.exe" SelfReg="false" NextFile="BlockCodePrinciples.vshost.exe.manifest" DigSign="true"/>
+    <ROW File="BlockCodePrinciples.vshost.exe.manifest" Component_="BlockCodePrinciples.vshost.exe.manifest" FileName="BLOCKC~1.MAN|BlockCodePrinciples.vshost.exe.manifest" Attributes="0" SourcePath="..\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\BlockCodePrinciples.vshost.exe.manifest" SelfReg="false" NextFile="DevExpress.Data.v16.1.xml"/>
+    <ROW File="DevExpress.BonusSkins.v16.1.dll" Component_="DevExpress.BonusSkins.v16.1.dll" FileName="DEVEXP~1.DLL|DevExpress.BonusSkins.v16.1.dll" Attributes="0" SourcePath="..\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.BonusSkins.v16.1.dll" SelfReg="false" NextFile="BlockCodePrinciples.exe"/>
+    <ROW File="DevExpress.Data.v16.1.dll" Component_="DevExpress.Data.v16.1.dll" FileName="DEVEXP~3.DLL|DevExpress.Data.v16.1.dll" Attributes="0" SourcePath="..\..\..\..\Program Files (x86)\DevExpress 16.1\Components\Bin\Framework\DevExpress.Data.v16.1.dll" SelfReg="false" NextFile="DevExpress.Utils.v16.1.dll"/>
+    <ROW File="DevExpress.Data.v16.1.xml" Component_="BlockCodePrinciples.vshost.exe.manifest" FileName="DEVEXP~1.XML|DevExpress.Data.v16.1.xml" Attributes="0" SourcePath="..\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Data.v16.1.xml" SelfReg="false" NextFile="DevExpress.Pdf.v16.1.Core.dll"/>
+    <ROW File="DevExpress.Pdf.v16.1.Core.dll" Component_="DevExpress.Pdf.v16.1.Core.dll" FileName="DEVEXP~7.DLL|DevExpress.Pdf.v16.1.Core.dll" Attributes="0" SourcePath="..\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Pdf.v16.1.Core.dll" SelfReg="false" NextFile="DevExpress.Pdf.v16.1.Core.xml"/>
+    <ROW File="DevExpress.Pdf.v16.1.Core.xml" Component_="BlockCodePrinciples.vshost.exe.manifest" FileName="DEVEXP~2.XML|DevExpress.Pdf.v16.1.Core.xml" Attributes="0" SourcePath="..\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Pdf.v16.1.Core.xml" SelfReg="false" NextFile="DevExpress.Printing.v16.1.Core.dll"/>
+    <ROW File="DevExpress.Printing.v16.1.Core.dll" Component_="DevExpress.Printing.v16.1.Core.dll" FileName="DEVEXP~8.DLL|DevExpress.Printing.v16.1.Core.dll" Attributes="0" SourcePath="..\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Printing.v16.1.Core.dll" SelfReg="false" NextFile="DevExpress.Printing.v16.1.Core.xml"/>
+    <ROW File="DevExpress.Printing.v16.1.Core.xml" Component_="BlockCodePrinciples.vshost.exe.manifest" FileName="DEVEXP~3.XML|DevExpress.Printing.v16.1.Core.xml" Attributes="0" SourcePath="..\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Printing.v16.1.Core.xml" SelfReg="false" NextFile="DevExpress.Sparkline.v16.1.Core.xml"/>
+    <ROW File="DevExpress.Sparkline.v16.1.Core.dll" Component_="DevExpress.Sparkline.v16.1.Core.dll" FileName="DEVEXP~2.DLL|DevExpress.Sparkline.v16.1.Core.dll" Attributes="0" SourcePath="..\..\..\..\Program Files (x86)\DevExpress 16.1\Components\Bin\Framework\DevExpress.Sparkline.v16.1.Core.dll" SelfReg="false" NextFile="DevExpress.Data.v16.1.dll"/>
+    <ROW File="DevExpress.Sparkline.v16.1.Core.xml" Component_="BlockCodePrinciples.vshost.exe.manifest" FileName="DEVEXP~4.XML|DevExpress.Sparkline.v16.1.Core.xml" Attributes="0" SourcePath="..\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml" SelfReg="false" NextFile="DevExpress.Utils.v16.1.xml"/>
+    <ROW File="DevExpress.Utils.v16.1.dll" Component_="DevExpress.Utils.v16.1.dll" FileName="DEVEXP~4.DLL|DevExpress.Utils.v16.1.dll" Attributes="0" SourcePath="..\..\..\..\Program Files (x86)\DevExpress 16.1\Components\Bin\Framework\DevExpress.Utils.v16.1.dll" SelfReg="false" NextFile="Microsoft.CSharp.dll"/>
+    <ROW File="DevExpress.Utils.v16.1.xml" Component_="BlockCodePrinciples.vshost.exe.manifest" FileName="DEVEXP~5.XML|DevExpress.Utils.v16.1.xml" Attributes="0" SourcePath="..\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Utils.v16.1.xml" SelfReg="false" NextFile="DevExpress.XtraBars.v16.1.xml"/>
+    <ROW File="DevExpress.XtraBars.v16.1.dll" Component_="DevExpress.XtraBars.v16.1.dll" FileName="DEVEXP~6.DLL|DevExpress.XtraBars.v16.1.dll" Attributes="0" SourcePath="..\..\..\..\Program Files (x86)\DevExpress 16.1\Components\Bin\Framework\DevExpress.XtraBars.v16.1.dll" SelfReg="false" NextFile="mscorlib.dll"/>
+    <ROW File="DevExpress.XtraBars.v16.1.xml" Component_="BlockCodePrinciples.vshost.exe.manifest" FileName="DEVEXP~6.XML|DevExpress.XtraBars.v16.1.xml" Attributes="0" SourcePath="..\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.XtraBars.v16.1.xml" SelfReg="false" NextFile="DevExpress.XtraEditors.v16.1.xml"/>
+    <ROW File="DevExpress.XtraEditors.v16.1.dll" Component_="DevExpress.XtraEditors.v16.1.dll" FileName="DEVEXP~5.DLL|DevExpress.XtraEditors.v16.1.dll" Attributes="0" SourcePath="..\..\..\..\Program Files (x86)\DevExpress 16.1\Components\Bin\Framework\DevExpress.XtraEditors.v16.1.dll" SelfReg="false" NextFile="DevExpress.XtraBars.v16.1.dll"/>
+    <ROW File="DevExpress.XtraEditors.v16.1.xml" Component_="BlockCodePrinciples.vshost.exe.manifest" FileName="DEVEXP~7.XML|DevExpress.XtraEditors.v16.1.xml" Attributes="0" SourcePath="..\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.XtraEditors.v16.1.xml" SelfReg="false"/>
+    <ROW File="Microsoft.CSharp.dll" Component_="Microsoft.CSharp.dll" FileName="MICROS~1.DLL|Microsoft.CSharp.dll" Attributes="0" SourcePath="..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.dll" SelfReg="false" NextFile="DevExpress.XtraEditors.v16.1.dll"/>
+    <ROW File="System.Core.dll" Component_="System.Core.dll" FileName="SYSTEM~1.DLL|System.Core.dll" Attributes="0" SourcePath="..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll" SelfReg="false" NextFile="System.dll"/>
+    <ROW File="System.Data.DataSetExtensions.dll" Component_="System.Data.DataSetExtensions.dll" FileName="SYSTEM~2.DLL|System.Data.DataSetExtensions.dll" Attributes="0" SourcePath="..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.DataSetExtensions.dll" SelfReg="false" NextFile="System.Data.dll"/>
+    <ROW File="System.Data.dll" Component_="System.Data.dll" FileName="SYSTEM~3.DLL|System.Data.dll" Attributes="0" SourcePath="..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" SelfReg="false" NextFile="System.Deployment.dll"/>
+    <ROW File="System.Deployment.dll" Component_="System.Deployment.dll" FileName="SYSTEM~4.DLL|System.Deployment.dll" Attributes="0" SourcePath="..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Deployment.dll" SelfReg="false" NextFile="System.Drawing.dll"/>
+    <ROW File="System.Drawing.dll" Component_="System.Drawing.dll" FileName="SYSTEM~5.DLL|System.Drawing.dll" Attributes="0" SourcePath="..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" SelfReg="false" NextFile="System.Windows.Forms.dll"/>
+    <ROW File="System.Windows.Forms.dll" Component_="System.Windows.Forms.dll" FileName="SYSTEM~6.DLL|System.Windows.Forms.dll" Attributes="0" SourcePath="..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" SelfReg="false" NextFile="System.Xml.dll"/>
+    <ROW File="System.Xml.Linq.dll" Component_="System.Xml.Linq.dll" FileName="SYSTEM~8.DLL|System.Xml.Linq.dll" Attributes="0" SourcePath="..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.Linq.dll" SelfReg="false" NextFile="BlockCodePrinciples.pdb"/>
+    <ROW File="System.Xml.dll" Component_="System.Xml.dll" FileName="SYSTEM~7.DLL|System.Xml.dll" Attributes="0" SourcePath="..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" SelfReg="false" NextFile="System.Xml.Linq.dll"/>
+    <ROW File="System.dll" Component_="System.dll" FileName="System.dll" Attributes="0" SourcePath="..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" SelfReg="false" NextFile="System.Data.DataSetExtensions.dll"/>
+    <ROW File="mscorlib.dll" Component_="mscorlib.dll" FileName="mscorlib.dll" Attributes="0" SourcePath="..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" SelfReg="false" NextFile="System.Core.dll"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.BootstrapperUISequenceComponent">
+    <ROW Action="AI_DetectSoftware" Sequence="101"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.BuildComponent">
+    <ROW BuildKey="DefaultBuild" BuildName="DefaultBuild" BuildOrder="1" BuildType="0" PackageFolder=".." Languages="vi" InstallationType="4" UseLargeSchema="true"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.DictionaryComponent">
+    <ROW Path="&lt;AI_DICTS&gt;ui.ail"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.FragmentComponent">
+    <ROW Fragment="CommonUI.aip" Path="&lt;AI_FRAGS&gt;CommonUI.aip"/>
+    <ROW Fragment="FolderDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\FolderDlg.aip"/>
+    <ROW Fragment="MaintenanceTypeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\MaintenanceTypeDlg.aip"/>
+    <ROW Fragment="MaintenanceWelcomeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\MaintenanceWelcomeDlg.aip"/>
+    <ROW Fragment="SequenceDialogs.aip" Path="&lt;AI_THEMES&gt;classic\fragments\SequenceDialogs.aip"/>
+    <ROW Fragment="Sequences.aip" Path="&lt;AI_FRAGS&gt;Sequences.aip"/>
+    <ROW Fragment="StaticUIStrings.aip" Path="&lt;AI_FRAGS&gt;StaticUIStrings.aip"/>
+    <ROW Fragment="UI.aip" Path="&lt;AI_THEMES&gt;classic\fragments\UI.aip"/>
+    <ROW Fragment="Validation.aip" Path="&lt;AI_FRAGS&gt;Validation.aip"/>
+    <ROW Fragment="VerifyRemoveDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\VerifyRemoveDlg.aip"/>
+    <ROW Fragment="VerifyRepairDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\VerifyRepairDlg.aip"/>
+    <ROW Fragment="WelcomeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\WelcomeDlg.aip"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiBinaryComponent">
+    <ROW Name="SoftwareDetector.dll" SourcePath="&lt;AI_CUSTACTS&gt;SoftwareDetector.dll"/>
+    <ROW Name="aicustact.dll" SourcePath="&lt;AI_CUSTACTS&gt;aicustact.dll"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiControlEventComponent">
+    <ROW Dialog_="WelcomeDlg" Control_="Next" Event="NewDialog" Argument="FolderDlg" Condition="AI_INSTALL" Ordering="1"/>
+    <ROW Dialog_="FolderDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_INSTALL" Ordering="201"/>
+    <ROW Dialog_="FolderDlg" Control_="Back" Event="NewDialog" Argument="WelcomeDlg" Condition="AI_INSTALL" Ordering="1"/>
+    <ROW Dialog_="MaintenanceWelcomeDlg" Control_="Next" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT" Ordering="99"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_MAINT" Ordering="198"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="CustomizeDlg" Condition="AI_MAINT" Ordering="202"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_INSTALL" Ordering="197"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="FolderDlg" Condition="AI_INSTALL" Ordering="201"/>
+    <ROW Dialog_="CustomizeDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_MAINT" Ordering="101"/>
+    <ROW Dialog_="CustomizeDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="ChangeButton" Event="NewDialog" Argument="CustomizeDlg" Condition="AI_MAINT" Ordering="501"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceWelcomeDlg" Condition="AI_MAINT" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="RemoveButton" Event="NewDialog" Argument="VerifyRemoveDlg" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="601"/>
+    <ROW Dialog_="VerifyRemoveDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="RepairButton" Event="NewDialog" Argument="VerifyRepairDlg" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="601"/>
+    <ROW Dialog_="VerifyRepairDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="1"/>
+    <ROW Dialog_="VerifyRepairDlg" Control_="Repair" Event="EndDialog" Argument="Return" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="399" Options="1"/>
+    <ROW Dialog_="VerifyRemoveDlg" Control_="Remove" Event="EndDialog" Argument="Return" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="299" Options="1"/>
+    <ROW Dialog_="PatchWelcomeDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_PATCH" Ordering="201"/>
+    <ROW Dialog_="ResumeDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_RESUME" Ordering="299"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_PATCH" Ordering="199"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="PatchWelcomeDlg" Condition="AI_PATCH" Ordering="203"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCreateFolderComponent">
+    <ROW Directory_="SHORTCUTDIR" Component_="SHORTCUTDIR" ManualDelete="false"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCustActComponent">
+    <ROW Action="AI_DOWNGRADE" Type="19" Target="4010"/>
+    <ROW Action="AI_DetectSoftware" Type="257" Source="SoftwareDetector.dll" Target="OnDetectSoftware"/>
+    <ROW Action="AI_DpiContentScale" Type="1" Source="aicustact.dll" Target="DpiContentScale"/>
+    <ROW Action="AI_EnableDebugLog" Type="321" Source="aicustact.dll" Target="EnableDebugLog"/>
+    <ROW Action="AI_InstallModeCheck" Type="1" Source="aicustact.dll" Target="UpdateInstallMode" WithoutSeq="true"/>
+    <ROW Action="AI_LaunchApp" Type="1" Source="aicustact.dll" Target="[#BlockCodePrinciples.exe]"/>
+    <ROW Action="AI_PREPARE_UPGRADE" Type="65" Source="aicustact.dll" Target="PrepareUpgrade"/>
+    <ROW Action="AI_RESTORE_LOCATION" Type="65" Source="aicustact.dll" Target="RestoreLocation"/>
+    <ROW Action="AI_ResolveKnownFolders" Type="1" Source="aicustact.dll" Target="AI_ResolveKnownFolders"/>
+    <ROW Action="AI_SHOW_LOG" Type="65" Source="aicustact.dll" Target="LaunchLogFile" WithoutSeq="true"/>
+    <ROW Action="AI_STORE_LOCATION" Type="51" Source="ARPINSTALLLOCATION" Target="[APPDIR]"/>
+    <ROW Action="SET_APPDIR" Type="307" Source="APPDIR" Target="[ProgramFilesFolder][Manufacturer]\[ProductName]"/>
+    <ROW Action="SET_SHORTCUTDIR" Type="307" Source="SHORTCUTDIR" Target="[ProgramMenuFolder][ProductName]"/>
+    <ROW Action="SET_TARGETDIR_TO_APPDIR" Type="51" Source="TARGETDIR" Target="[APPDIR]"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiInstExSeqComponent">
+    <ROW Action="AI_DOWNGRADE" Condition="AI_NEWERPRODUCTFOUND AND (UILevel &lt;&gt; 5)" Sequence="210"/>
+    <ROW Action="AI_RESTORE_LOCATION" Condition="APPDIR=&quot;&quot;" Sequence="749"/>
+    <ROW Action="AI_STORE_LOCATION" Condition="(Not Installed) OR REINSTALL" Sequence="1501"/>
+    <ROW Action="AI_PREPARE_UPGRADE" Condition="AI_UPGRADE=&quot;No&quot; AND (Not Installed)" Sequence="1399"/>
+    <ROW Action="AI_ResolveKnownFolders" Sequence="52"/>
+    <ROW Action="AI_EnableDebugLog" Sequence="51"/>
+    <ROW Action="AI_DetectSoftware" Sequence="101"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiInstallUISequenceComponent">
+    <ROW Action="AI_RESTORE_LOCATION" Condition="APPDIR=&quot;&quot;" Sequence="749"/>
+    <ROW Action="AI_ResolveKnownFolders" Sequence="53"/>
+    <ROW Action="AI_DpiContentScale" Sequence="52"/>
+    <ROW Action="AI_EnableDebugLog" Sequence="51"/>
+    <ROW Action="AI_DetectSoftware" Sequence="101"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiLaunchConditionsComponent">
+    <ROW Condition="(VersionNT &lt;&gt; 400)" Description="[ProductName] cannot be installed on [WindowsTypeNT40Display]." DescriptionLocId="AI.LaunchCondition.NoNT40" IsPredefined="true" Builds="DefaultBuild"/>
+    <ROW Condition="(VersionNT &lt;&gt; 500)" Description="[ProductName] cannot be installed on [WindowsTypeNT50Display]." DescriptionLocId="AI.LaunchCondition.NoNT50" IsPredefined="true" Builds="DefaultBuild"/>
+    <ROW Condition="(VersionNT64 OR ((VersionNT &lt;&gt; 501) OR (ServicePackLevel = 3))) AND ((VersionNT &lt;&gt; 502) OR (ServicePackLevel = 2))" Description="[ProductName] cannot be installed on [WindowsTypeNT5XDisplay]." DescriptionLocId="AI.LaunchCondition.NoNT5X" IsPredefined="true" Builds="DefaultBuild"/>
+    <ROW Condition="AI_DETECTED_DOTNET_VERSION &gt;= AI_REQUIRED_DOTNET_VERSION" Description="[ProductName] cannot be installed on systems with .NET Framework version lower than [AI_REQUIRED_DOTNET_DISPLAY]." DescriptionLocId="AI.LaunchCondition.DotNET" IsPredefined="true" Builds="DefaultBuild"/>
+    <ROW Condition="VersionNT" Description="[ProductName] cannot be installed on [WindowsType9XDisplay]." DescriptionLocId="AI.LaunchCondition.No9X" IsPredefined="true" Builds="DefaultBuild"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiRegsComponent">
+    <ROW Registry="Path" Root="-1" Key="Software\[Manufacturer]\[ProductName]" Name="Path" Value="[APPDIR]" Component_="ProductInformation"/>
+    <ROW Registry="Version" Root="-1" Key="Software\[Manufacturer]\[ProductName]" Name="Version" Value="[ProductVersion]" Component_="ProductInformation"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiShortsComponent">
+    <ROW Shortcut="SetupBlockCodePrinciples.exe" Directory_="SHORTCUTDIR" Name="SETUPB~1.EXE|SetupBlockCodePrinciples.exe" Component_="BlockCodePrinciples.exe" Target="[#BlockCodePrinciples.exe]" Description="SetupBlockCodePrinciples.exe" Hotkey="0" IconIndex="0" ShowCmd="1" WkDir="APPDIR"/>
+    <ROW Shortcut="SetupBlockCodePrinciples.exe_1" Directory_="DesktopFolder" Name="SETUPB~1.EXE|SetupBlockCodePrinciples.exe" Component_="BlockCodePrinciples.exe" Target="[#BlockCodePrinciples.exe]" Description="SetupBlockCodePrinciples.exe" Hotkey="0" IconIndex="0" ShowCmd="1" WkDir="APPDIR"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiThemeComponent">
+    <ATTRIBUTE name="UsedTheme" value="classic"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiUpgradeComponent">
+    <ROW UpgradeCode="[|UpgradeCode]" VersionMin="0.0.1" VersionMax="[|ProductVersion]" Attributes="257" ActionProperty="OLDPRODUCTS"/>
+    <ROW UpgradeCode="[|UpgradeCode]" VersionMin="[|ProductVersion]" Attributes="2" ActionProperty="AI_NEWERPRODUCTFOUND"/>
+  </COMPONENT>
+</DOCUMENT>

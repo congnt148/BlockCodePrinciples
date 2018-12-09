@@ -1,0 +1,152 @@
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\BlockCodePrinciples.exe
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\BlockCodePrinciples.pdb
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.csprojResolveAssemblyReference.cache
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.Form1.resources
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.Properties.Resources.resources
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.csproj.GenerateResource.Cache
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.exe.licenses
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.exe
+C:\Users\cuber\Desktop\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.pdb
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\BlockCodePrinciples.exe
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\BlockCodePrinciples.pdb
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Data.v16.1.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Utils.v16.1.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.XtraBars.v16.1.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Data.v16.1.xml
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Utils.v16.1.xml
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.XtraBars.v16.1.xml
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.csprojResolveAssemblyReference.cache
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.Form1.resources
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.Properties.Resources.resources
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.csproj.GenerateResource.Cache
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.exe.licenses
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.exe
+F:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.pdb
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\BlockCodePrinciples.exe
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\BlockCodePrinciples.pdb
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Data.v16.1.xml
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Utils.v16.1.xml
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.XtraBars.v16.1.xml
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.csprojAssemblyReference.cache
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.Form1.resources
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.Properties.Resources.resources
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.csproj.GenerateResource.cache
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.exe.licenses
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.csproj.CoreCompileInputs.cache
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.csproj.CopyComplete
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.exe
+G:\Program\Đồ án của tui\C# Winfrom\BlockCodePrinciples\BlockCodePrinciples\obj\Debug\BlockCodePrinciples.pdb
